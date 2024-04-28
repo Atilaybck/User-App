@@ -1,7 +1,3 @@
-import react from "react";
-import { View } from "react-native";
-
-
 export const User = () => {
     return (
         <View
@@ -14,9 +10,9 @@ export const User = () => {
                 flexDirection: "row",
             }}
         >
-            <View style={{backgroundColor:"orange", flex:2}}></View>
-            <View style={{backgroundColor:"green", flex:4}}></View>
-            <View style={{backgroundColor:"blue", flex:1}}></View>
+            <View style={{flex:2}}></View>
+            <View style={{flex:4}}></View>
+            <View style={{flex:1}}></View>
 
 
         </View>

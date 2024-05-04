@@ -11,7 +11,7 @@ export const User = () => {
             flexDirection: "row"
         }}>
             <View style={{flex:2}}></View>
-            <View style={{flex:4}}></View>
+            <View style={{flex:4}}><Text>Atılay</Text></View>
             <View style={{flex:1}}></View>
 
 

@@ -11,5 +11,14 @@ export const Home = () => {
         }}>
             <UserList />
         </View>
+<<<<<<< HEAD
     );
 };
+=======
+    )
+}
+
+
+
+
+>>>>>>> b875a1a3d4c898e9e4bc5c593e2205af82883f26

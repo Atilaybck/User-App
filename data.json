@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "avatar": "./assets/Avatar/avatar2.jpg",
+      "online": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "avatar": "./assets/Avatar/avatar2.jpg",
+      "online": false
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "avatar": "./assets/Avatar/avatar2.jpg",
+      "online": true
+    }
+  ]
+}
